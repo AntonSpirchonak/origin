@@ -13,5 +13,6 @@ public class Main {
             }
         });
         thread.start();
+        System.out.println("Everybody, move your body!");
     }
 }
